@@ -47,22 +47,22 @@ def pregunta_02():
     """
 
     # Lea el archivo `gm_2008_region.csv` y asignelo al DataFrame `df`
-    df = ____
+    df = 
 
     # Imprima las dimensiones del DataFrame
-    print(____.____)
+    print
 
     # Imprima la correlación entre las columnas `life` y `fertility` con 4 decimales.
-    print(____)
+    print
 
     # Imprima la media de la columna `life` con 4 decimales.
-    print(____)
+    print
 
     # Imprima el tipo de dato de la columna `fertility`.
-    print(____)
+    print
 
     # Imprima la correlación entre las columnas `GDP` y `life` con 4 decimales.
-    print(____)
+    print
 
 
 def pregunta_03():
